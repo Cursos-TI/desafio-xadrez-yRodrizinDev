@@ -103,4 +103,6 @@ int main() {
 
     // ---------------- CAVALO ----------------
     moverCavalo();
+
+    return 0;
 }
